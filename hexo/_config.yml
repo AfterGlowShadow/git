@@ -4,8 +4,8 @@
 
 # Site
 title: 余晖残影
-subtitle: '欢迎来到余晖残影'
-description: '欢迎来到余晖残影'
+subtitle: '秋风扫落叶 余晖映残影'
+description: '秋风扫落叶 余晖映残影'
 keywords:
 author: Shadow
 language: zh-CN
@@ -52,7 +52,7 @@ highlight:
   wrap: true
   hljs: false
 prismjs:
-  enable: false
+  enable: true
   preprocess: true
   line_number: true
   tab_replace: ''
