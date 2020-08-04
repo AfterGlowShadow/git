@@ -7,6 +7,7 @@ tags:
   - windows
 categories: 
   - 系统
+  - linux
 description: Linux 定时任务记录
 date: 
 ---
